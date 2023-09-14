@@ -1,4 +1,6 @@
 ### Hi there 👋
+My name is Tiha123 and I'mt studying GitHub in university now.
+Feel free to watch!
 
 <!--
 **Tiha123/Tiha123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
