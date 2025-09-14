@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Tiha123 and I'mt studying GitHub in university now.
+My name is Tiha123 and I'm studying game developement now.
 Feel free to watch!
 
 <!--
